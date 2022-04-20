@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="692.88" height="819.719" viewBox="0 0 692.88 819.719">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.32" y1="0.131" x2="0.165" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff870e"/>
+      <stop offset="1" stop-color="#ab74f9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#aeb7c8"/>
+    </linearGradient>
+  </defs>
+  <path id="Trazado_29" data-name="Trazado 29" d="M0,0V611.954L164.043,713.1,351.005,819.719,692.88,617.538V0Z" opacity="0.03" fill="url(#linear-gradient)"/>
+  <path id="Trazado_28" data-name="Trazado 28" d="M0,0V514.6L137.947,599.66l157.22,89.658L582.657,519.3V0Z" transform="translate(55.112 65.201)" opacity="0.05" fill="url(#linear-gradient)"/>
+  <path id="Trazado_27" data-name="Trazado 27" d="M0,0V395.874L106.12,461.3l120.946,68.972L448.225,399.486V0Z" transform="translate(122.328 144.721)" opacity="0.1" fill="url(#linear-gradient)"/>
+  <path id="Trazado_26" data-name="Trazado 26" d="M0,0V284.711l76.321,47.058,86.984,49.6,159.057-94.064V0Z" transform="translate(185.259 219.173)" opacity="0.2" fill="url(#linear-gradient)"/>
+  <path id="Trazado_25" data-name="Trazado 25" d="M428.741,209.8l174.337-5.081,2.581,5.081V391.211l-37.346,19.328-2.531-5.1,2.531-60.221H507.879v77.326l29.942,16.841,78.417-45.046V209.8l34.767-5,2.577,5v206.24L539.407,483.561l-62.442-35.607h-6.43l-2.608-5.232,2.608-183.28,34.712-5.085,2.632,5.085v48.427h60.434v-58.93H459.527V434.683l-37.348-20.508-2.357-5.215,2.357-199.16Z" transform="translate(-190.262 65.72)" fill="url(#linear-gradient-5)"/>
+</svg>
