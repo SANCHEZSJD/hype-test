@@ -4,6 +4,7 @@ import cryptoTree from '../assets/images/crypto-tree.svg';
 import isotipo from '../assets/images/isotipo.svg';
 
 import btc from '../assets/images/btc.svg';
+import classNames from "classnames";
 
 const items = [
     "Conocer el negocio",
@@ -14,7 +15,7 @@ const items = [
 ];
 
 const Section4 = () => {
-    
+
     const getMarginLeft = (index) => {
         let i = 0;
         let arr = [];
@@ -28,7 +29,8 @@ const Section4 = () => {
                 arr.push(i);
             }
         });
-        return `${arr[index] * 8}rem`;
+        // return `${arr[index] * 8}rem`;
+        return `ml-${arr[index]}`;
     }
 
     return (
@@ -40,7 +42,7 @@ const Section4 = () => {
                         <ul>
                             {items.map((item, index) => (
                                 <li key={index}>
-                                    <span className="item" style={{ marginRight: getMarginLeft(index) }}>
+                                    <span className={classNames('item', getMarginLeft(index))}>
                                         <span className="number">{index + 1}.</span>
                                         {item}
                                     </span>
